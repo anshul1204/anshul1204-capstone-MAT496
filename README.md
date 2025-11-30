@@ -16,7 +16,7 @@ I chose this project because I wanted to learn how AI can solve real problems th
 ## Plan
 I plan to execute these steps to complete my project:
 
-[TO-DO] Step 1: Project Initialization & Environment Setup    
+[DONE] Step 1: Project Initialization & Environment Setup    
 This step prepares the notebook, installs dependencies, and sets up the environment needed for the system to run.
 
 [TO-DO] Step 2: Secure API Configuration & System Access  
