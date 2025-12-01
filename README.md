@@ -39,3 +39,8 @@ This step allows the user to enter their trip details and receive a generated it
 
 [DONE] Step 8: Conflict Resolution & Final Cost Breakdown Output    
 This step displays how conflicts were fixed and shows the final cost breakdown for clarity.
+
+## Conclusion
+My aim in this project was to build a travel assistant that understands a user’s trip details and produces a clear and corrected itinerary. After working through each step, I feel the project successfully shows how AI can improve planning by checking for errors and presenting information in a structured way.
+
+Overall, this project helped me understand how to divide a task into stages, how AI models can support real-life use cases, and how to make a complete system starting from setup and ending with a final polished output.
