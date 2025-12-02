@@ -13,16 +13,19 @@ I chose this project because I wanted to learn how AI can solve real problems th
 - To create something simple, practical, and easy for anyone to use  
 - To get hands-on experience with organising code into meaningful stages  
 
+## Video Summary Link
+https://drive.google.com/drive/folders/1e5cdSPml8jYzQlQyLjRC424z12veEUtU?usp=sharing
+
 ## Plan
 I plan to execute these steps to complete my project:
 
 [DONE] Step 1: Project Initialization & Environment Setup    
 This step prepares the notebook, installs dependencies, and sets up the environment needed for the system to run.
 
-[DONE] Step 2: Secure API Configuration & System Access  
+[DONE] Step 2: Secure API Configuration & System Access   
 This step adds the API key configuration so the AI model can be used safely inside the notebook.
 
-[DONE] Step 3: Defining Structured Data Models for Itinerary Planning   
+[DONE] Step 3: Defining Structured Data Models for Itinerary Planning    
 This step introduces the Pydantic models that control and validate the format of the itinerary data.
 
 [DONE] Step 4: Initialising the AI Model for Travel Reasoning    
